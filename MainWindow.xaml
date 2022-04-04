@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 
-        <Button x:Name="button" Content="this is button" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="5"/>
+        <Button x:Name="button" Content="this is button that is now edited" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="5"/>
 
     </Grid>
 </Window>
